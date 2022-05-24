@@ -1,0 +1,257 @@
+/* img.img_bg2 {
+  width: 100%;
+  height: 100vh;
+  flex-grow: 0;
+  margin: 0 0 64px; 
+  padding: 0 0 4px; 
+  object-fit: contain;
+  -webkit-backdrop-filter: blur(360px);
+  backdrop-filter: blur(360px);
+  background-image: radial-gradient(circle at 100% 0%, rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.1) 121%);
+} */
+ 
+.divflex{
+    display: flex;
+    /* flex-direction: column; */
+}
+
+.img_flexone {
+    width: 470px;
+    height: 633px;
+    position: relative;
+    flex-grow: 0;
+    margin: 0 130px 0 135px;
+    object-fit: contain;
+  }
+  .Rectangle-4 {
+    position: absolute;
+    top: 550px;
+    left: 150px;
+    z-index: 1;
+    width: 275px;
+    height: 145px;
+    flex-grow: 0;
+    margin: 0 0 0 54px;
+    padding: 28px 25px 23px 47px;
+    -webkit-backdrop-filter: blur(70px);
+    backdrop-filter: blur(70px);
+    box-shadow: 0 13px 30px -7px rgba(0, 0, 0, 0.17);
+    background-image: radial-gradient(circle at 100% 0%, rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.1) 120%);
+  }
+  .icn_building {
+    position: absolute;
+    left: 160px;
+    top: 560px;
+    z-index: 2;
+    width: 88px;
+    height: 88px;
+    flex-grow: 0;
+    margin: 28px 241px 0 0;
+    object-fit: contain;
+    /* box-shadow: 0 8px 6px 0 rgba(0, 0, 0, 0.25); */
+  }
+  .icn_location {
+    position: absolute;
+    width: 32px;
+    height: 32px;
+    z-index: 3;
+    top: 40px;
+    left: 40px;
+    flex-grow: 0;
+    /* margin: 0 171px 32px 0; */
+    object-fit: contain;
+  }
+  .FlexOne-GIFT {
+    width: 350px;
+    height: 56px;
+    position: absolute;
+    top: 70px;
+    left: 40px;
+    z-index: 4;
+    flex-grow: 0;
+    /* margin: 23px 53px 15px 0; */
+    background-image: radial-gradient(circle at -2% -9%, #297eff, #1c2ff7 96%);
+    font-family: Manrope;
+    font-size: 24px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.34;
+    letter-spacing: normal;
+    text-align: left;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .GIFT-SEZ-Gandhinagar-India {
+    width: 203px;
+    height: 30px;
+    position: absolute;
+    top: 80px;
+    left: 40px;
+    /* z-index: 5; */
+    flex-grow: 0;
+    margin: 32px 0 0;
+    font-family: Manrope;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.18;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+  }
+
+
+  .Introducing-Indias-First-Regulated-Token-Offering {
+    width: 591px;
+    height: 132px;
+    flex-grow: 0;
+    margin: 0 0 30px;
+    font-family: Manrope;
+    font-size: 48px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #212121;
+  }
+
+  .The-Terazo-Fund-1-is-a-single-asset-fund-investing-in-FlexOne-GIFT-a-Grade-A-commercial-real-estate {
+    width: 570px;
+    height: 88px;
+    flex-grow: 0;
+    margin: 30px 21px 0 0;
+    font-family: Manrope;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.18;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+  }
+
+  .icn_tick {
+    width: 24px;
+    height: 24px;
+    position: absolute;
+    top: 30px;
+    left: 0px;
+    flex-grow: 0;
+    margin: 10px 9px 10px 0;
+    object-fit: contain;
+  }
+  .Start-Small {
+    width: 543px;
+    height: 44px;
+    flex-grow: 0;
+    position: absolute;
+    top: 30px;
+    left: 20px;
+    margin: 0 0 0 10px;
+    font-family: Manrope;
+    font-size: 20px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.18;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+  }
+  .Invest-as-low-as-USD-1000 {
+    width: 543px;
+    height: 44px;
+    position: absolute;
+    top: 60px;
+    left: 20px;
+    flex-grow: 0;
+    margin: 0.8px 1px 0 9px;
+    font-family: Manrope;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.18;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+  }
+
+  .icn_tick2 {
+    position: absolute;
+    top: 110px;
+    left: 0px;
+    width: 24px;
+    height: 24px;
+    flex-grow: 0;
+    margin: 10px 10px 10px 0;
+    object-fit: contain;
+  }
+
+  .High-Growth {
+    position: absolute;
+    top: 110px;
+    left: 20px;
+    width: 543px;
+    height: 44px;
+    flex-grow: 0;
+    margin: 0 0 0 10px;
+    font-family: Manrope;
+    font-size: 20px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.18;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+  }
+
+  .Targeted-IRR-15 {
+    position: absolute;
+    top: 140px;
+    left: 20px;
+    width: 543px;
+    height: 44px;
+    flex-grow: 0;
+    margin: 10px 0 0 10px;
+    font-family: Manrope;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.18;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+  }
+
+  .Background {
+    position: absolute;
+    top: 400px;
+    width: 181px;
+    height: 56px;
+    margin: 31px 408px 0 2px;
+    padding: 15px 24px 16px 25px;
+    border-radius: 100px;
+    background-color: #2366f6;
+  }
+  .Text {
+    width: 132px;
+    height: 25px;
+    font-family: Manrope;
+    font-size: 18px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #fff;
+  }

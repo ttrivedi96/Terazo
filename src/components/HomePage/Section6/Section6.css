@@ -1,0 +1,192 @@
+
+
+/* Slide 1 */
+.img_Photo_register {
+    width: 450px;
+    height: 420px;
+    position: absolute;
+    flex-grow: 0;
+    margin: 112px 224px 55px 237px;
+    object-fit: contain;
+  }
+
+  .Rectangle-29 {
+    width: 370px;
+    height: 432px;
+    position: absolute;
+    z-index: 1;
+    flex-grow: 0;
+    margin: 155px 68px 0 17px;
+    padding: 50px 42px 33px 38px;
+    object-fit: contain;
+    -webkit-backdrop-filter: blur(60px);
+    backdrop-filter: blur(60px);
+    box-shadow: 0 13px 30px -7px rgba(0, 0, 0, 0.17);
+    background-image: linear-gradient(220deg, rgba(255, 255, 255, 0.7) 101%, rgba(255, 255, 255, 0.1) -1%);
+  }
+
+  .img_register {
+    width: 112px;
+    height: 112px;
+    flex-grow: 0;
+    margin: 0 178px 106px 0;
+    object-fit: contain;
+  }
+
+  .Register {
+    width: 99px;
+    height: 33px;
+    flex-grow: 0;
+    margin: 0 191px 10px 0;
+    font-family: Manrope;
+    font-size: 24px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+  }
+  .Request-for-an-invite-to-get-on-board {
+    width: 290px;
+    height: 88px;
+    flex-grow: 0;
+    margin: 10px 0 0;
+    font-family: Manrope;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.18;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+  }
+
+
+  /* Slide 2 */
+
+  .img_Photo_explore {
+    width: 450px;
+    height: 420px;
+    position: absolute;
+    flex-grow: 0;
+    margin: 700px 215.6px 0 237px;
+    object-fit: contain;
+  }
+  .Rectangle-299 {
+    width: 370px;
+    height: 432px;
+    position: absolute;
+    z-index: 1;
+    flex-grow: 0;
+    margin: 750px 0px 0px 0px;
+    padding: 50px 42px 33px 38px;
+    object-fit: contain;
+    -webkit-backdrop-filter: blur(60px);
+    backdrop-filter: blur(60px);
+    box-shadow: 0 13px 30px -7px rgba(0, 0, 0, 0.17);
+    background-image: linear-gradient(220deg, rgba(255, 255, 255, 0.7) 101%, rgba(255, 255, 255, 0.1) -1%);
+  }
+  .img_explore {
+    width: 112px;
+    height: 112px;
+    flex-grow: 0;
+    margin: 0 178px 62px 0;
+    object-fit: contain;
+  }
+  .Explore {
+    width: 88px;
+    height: 33px;
+    flex-grow: 0;
+    margin: 0 202px 10px 0;
+    font-family: Manrope;
+    font-size: 24px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+  }
+  .Gain-exclusive-access-to-attractive-private-market-investment-opportunities {
+    width: 290px;
+    height: 132px;
+    flex-grow: 0;
+    margin: 10px 0 0;
+    font-family: Manrope;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.18;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+  }
+
+
+/* Slide 3 */
+  .img_Photo_investing {
+    width: 450px;
+    height: 420px;
+    position: absolute;
+    flex-grow: 0;
+    margin: 1400px 215.6px 0 237px;
+    object-fit: contain;
+  }
+
+  .Rectangle-2999 {
+    width: 370px;
+    height: 432px;
+    position: absolute;
+    z-index: 1;
+    flex-grow: 0;
+    margin: 1450px 0px 0px 0px;
+    padding: 50px 42px 33px 38px;
+    object-fit: contain;
+    -webkit-backdrop-filter: blur(60px);
+    backdrop-filter: blur(60px);
+    box-shadow: 0 13px 30px -7px rgba(0, 0, 0, 0.17);
+    background-image: linear-gradient(220deg, rgba(255, 255, 255, 0.7) 101%, rgba(255, 255, 255, 0.1) -1%);
+  }
+
+  .img_investing {
+    width: 112px;
+    height: 112px;
+    flex-grow: 0;
+    margin: 0 178px 106px 0;
+    object-fit: contain;
+  }
+  .Happy-Investing {
+    width: 197px;
+    height: 33px;
+    flex-grow: 0;
+    margin: 0 93px 10px 0;
+    font-family: Manrope;
+    font-size: 24px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+  }
+  .Buy-and-sell-starting-at-just-USD-1000 {
+    width: 290px;
+    height: 88px;
+    flex-grow: 0;
+    margin: 10px 0 0;
+    font-family: Manrope;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.18;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+  }

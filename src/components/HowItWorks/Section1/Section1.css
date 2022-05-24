@@ -1,0 +1,249 @@
+.Start-Investing-in-3-Simple-Steps {
+    width: 809px;
+    height: 66px;
+    flex-grow: 0;
+    margin-top: 154px;
+    margin-left: 20%;
+    font-family: Manrope;
+    font-size: 48px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #000;
+  }
+
+  .Rectangle-27 {
+    width: 225.1px;
+    height: 50px;
+    flex-grow: 0;
+    margin-top: 35px;
+    margin-left: 42%;
+  }
+  
+.Request-invite-to-get-on-board {
+    width: 351px;
+    height: 44px;
+    margin-top: 35px;
+    margin-left: 39%;
+    font-family: Manrope;
+    font-size: 26px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.18;
+    letter-spacing: normal;
+    text-align: center;
+    color: #000f31;
+  }
+
+  .Check-Eligibility- {
+    width: 351px;
+    height: 35px;
+    margin-top: 56px;
+    margin-left: 46%;
+    font-family: Manrope;
+    font-size: 16px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.16;
+    letter-spacing: normal;
+    text-decoration: none;
+    text-align: center;
+    color: #1c2ff7;
+  }
+
+  .img_product_step1 {
+    width: 770px;
+    height: 397px;
+    margin-top: 13px ;
+    margin-left: 22%;
+    object-fit: contain;
+  }
+
+  .Gain-exclusive-access-to-attractive-private-market-investment-opportunities {
+    width: 829px;
+    height: 44px;
+    margin-top: 35px;
+    margin-left: 21.5%;
+    font-family: Manrope;
+    font-size: 26px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.18;
+    letter-spacing: normal;
+    text-align: center;
+    color: #000f31;
+  }
+
+  .Buy-and-sell-starting-at-USD-1000 {
+    width: 351px;
+    height: 44px;
+    margin-top: 35px;
+    margin-left: 37%;
+    font-family: Manrope;
+    font-size: 26px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.18;
+    letter-spacing: normal;
+    text-align: center;
+    color: #000f31;
+  }
+
+
+  .bgDiv {
+    background-image: url("../Images/img_bg2.png");
+    background-color: #cccccc;
+    height: 700px;
+    background-size: cover;
+   }
+
+   .cards{
+     display: flex;
+     flex-direction: row;
+     
+   }
+
+   .Terazo-unlocks-returns-in-3-Ways {
+    width: 784px;
+    height: 66px;
+    flex-grow: 0;
+    margin-top: 154px;
+    margin-left: 25%;
+    font-family: Manrope;
+    font-size: 48px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #000;
+  }
+
+
+  .img_dividends {
+    width: 112px;
+    height: 112px;
+    flex-grow: 0;
+    margin: 84px 196px 41px 91px;
+    object-fit: contain;
+  }
+  .img_payout {
+    width: 112px;
+    height: 112px;
+    flex-grow: 0;
+    margin: 84px 194px 41px 197px;
+    object-fit: contain;
+  }
+  .img_trading {
+    width: 112px;
+    height: 112px;
+    flex-grow: 0;
+    margin: 84px 89px 41px 197px;
+    object-fit: contain;
+  }
+
+
+
+  .Dividends-Distributions {
+    width: 245px;
+    height: 44px;
+    flex-grow: 0;
+    margin: 0 25px 0 24px;
+    font-family: Manrope;
+    font-size: 20px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.18;
+    letter-spacing: normal;
+    text-align: center;
+    color: #000;
+  }
+  .Your-investments-shall-generate-returns-as-dividends-or-distributions-depending-on-the-asset {
+    width: 294px;
+    height: 176px;
+    flex-grow: 0;
+    margin: 44px 0 0;
+    font-family: Manrope;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.18;
+    letter-spacing: normal;
+    text-align: center;
+    color: #000;
+  }
+
+  .Exit-Payouts {
+    width: 120px;
+    height: 44px;
+    flex-grow: 0;
+    margin: 0 87px;
+    margin-left: 200px;
+    font-family: Manrope;
+    font-size: 20px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.18;
+    letter-spacing: normal;
+    text-align: center;
+    color: #000;
+  }
+  .Get-opportunities-to-enjoy-distributions-and-payouts-when-investments-are-sold {
+    width: 294px;
+    height: 132px;
+    flex-grow: 0;
+    margin: 44px 0 0;
+    margin-left: 110px;
+    font-family: Manrope;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.18;
+    letter-spacing: normal;
+    text-align: center;
+    color: #000;
+  }
+  .Marketplace-Trading {
+    width: 198px;
+    height: 44px;
+    flex-grow: 0;
+    margin: 0 46px 0 50px;
+    margin-left: 160px;
+    font-family: Manrope;
+    font-size: 20px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.18;
+    letter-spacing: normal;
+    text-align: center;
+    color: #000;
+  }
+  .Make-attractive-returns-when-you-buy-and-sell-on-Terazos-P2P-marketplace {
+    width: 294px;
+    height: 132px;
+    flex-grow: 0;
+    margin: 44px 0 0;
+    margin-left: 110px;
+    font-family: Manrope;
+    font-size: 20px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 2.18;
+    letter-spacing: normal;
+    text-align: center;
+    color: #000;
+  }

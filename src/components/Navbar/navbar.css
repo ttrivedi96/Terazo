@@ -1,0 +1,35 @@
+.Homepage---Terazo {
+    width: 1440px;
+    height: 5740px;
+    flex-grow: 0;
+    padding: 37px 0 0;
+    background-color: rgb(226, 50, 50);
+  }
+
+.Group-213 {
+  width: 1350px;
+  height: 57px;
+  margin: 0 45px 132px;
+}
+
+img.img_terazo_Logo {
+    width: 168px;
+    height: 57px;
+    margin: 0 644px 0 0;
+    object-fit: contain;
+  }
+
+  link {
+    width: 106px;
+    height: 25px;
+    margin: 15px 39px 17px 644px;
+    /* font-family: Manrope; */
+    font-size: 18px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #000;
+  }
